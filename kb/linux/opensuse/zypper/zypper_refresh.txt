@@ -1,0 +1,9 @@
+# zypper ref -s
+All services have been refreshed.
+Repository 'Google Chrome' is up to date.                                                                                                                                                            
+Repository 'google-chrome' is up to date.                                                                                                                                                            
+Repository 'openSUSE-Leap-42.2-Non-Oss' is up to date.                                                                                                                                               
+Repository 'openSUSE-Leap-42.2-Oss' is up to date.                                                                                                                                                   
+Repository 'openSUSE-Leap-42.2-Update' is up to date.                                                                                                                                                
+Repository 'openSUSE-Leap-42.2-Update-Non-Oss' is up to date.                                                                                                                                        
+All repositories have been refreshed.
