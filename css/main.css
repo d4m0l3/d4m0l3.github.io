@@ -1,0 +1,13 @@
+@font-face {
+font-family:DejaVuSansMono;
+src:url('../fonts/DejaVuSansMono.ttf');
+} 
+@font-face {
+font-family:Garamond;
+src:url('../fonts/EBGaramond-Regular.ttf');
+} 
+
+
+h1 {font-family:DejaVuSansMono;}
+.test1 {font-family:DejaVuSansMono;}
+.test2 {font-family:Garamond;}
