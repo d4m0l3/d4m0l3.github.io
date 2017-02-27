@@ -1,3 +1,5 @@
+body {background-color:#555555;}
+
 @font-face {
 font-family:DejaVuSansMono;
 src:url('../fonts/DejaVuSansMono.ttf');
@@ -6,8 +8,16 @@ src:url('../fonts/DejaVuSansMono.ttf');
 font-family:Garamond;
 src:url('../fonts/EBGaramond-Regular.ttf');
 } 
+@font-face {
+font-family:s0751;
+src:url('../fonts/standard 07_51.ttf');
+}
+@font-face {
+font-family:s0752;
+src:url('../fonts/standard 07_52.ttf');
+}
 
-
-h1 {font-family:DejaVuSansMono;}
-.test1 {font-family:DejaVuSansMono;}
-.test2 {font-family:Garamond;}
+.test1 {font-family:DejaVuSansMono;font-size:1em;}
+.test2 {font-family:Garamond;font-size:1em;}
+.s0751 {font-family:s0751;font-size:1em;}
+.s0752 {font-family:s0752;font-size:1em;}
